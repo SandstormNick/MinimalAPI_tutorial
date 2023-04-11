@@ -1,4 +1,4 @@
-//Use the MapGroup API
+//Use the MapGroup API.
 
 //The sample app code repeats the todoitems URL prefix each time it sets up an endpoint.
 //APIs often have groups of endpoints with a common URL prefix,
